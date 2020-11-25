@@ -1,1 +1,2 @@
-<img src="Warm.png">
+![Warm](Warm.png)
+![Cold](Cold.png)
